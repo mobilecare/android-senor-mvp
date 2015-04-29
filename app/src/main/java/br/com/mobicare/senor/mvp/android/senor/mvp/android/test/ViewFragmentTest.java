@@ -1,4 +1,4 @@
-package senor.mvp.test;
+package br.com.mobicare.senor.mvp.android.senor.mvp.android.test;
 
 import android.annotation.TargetApi;
 import android.app.Fragment;
@@ -7,7 +7,6 @@ import android.os.Build;
 import android.test.ActivityInstrumentationTestCase2;
 
 import br.com.mobicare.mcare_mvp_android.R;
-import senor.mvp.android.TestFragmentActivity;
 
 @TargetApi(Build.VERSION_CODES.HONEYCOMB)
 public abstract class ViewFragmentTest<F extends Fragment> extends ActivityInstrumentationTestCase2<TestFragmentActivity> {

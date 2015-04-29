@@ -1,4 +1,4 @@
-package br.com.mobicare.senor;
+package br.com.mobicare.senor.mvp.android.senor.mvp;
 
 import java.util.HashMap;
 import java.util.Map;

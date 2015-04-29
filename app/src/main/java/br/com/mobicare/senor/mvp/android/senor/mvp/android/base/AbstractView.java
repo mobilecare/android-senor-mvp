@@ -1,10 +1,10 @@
-package senor.mvp.base;
+package br.com.mobicare.senor.mvp.android.senor.mvp.android.base;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import br.com.mobicare.senor.AbstractEventer;
+import br.com.mobicare.senor.mvp.android.senor.mvp.AbstractEventer;
 
 
 public abstract class AbstractView extends AbstractEventer {

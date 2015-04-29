@@ -26,5 +26,4 @@ dependencies {
     compile files('libs/dexmaker-mockito-1.0.jar')
     compile files('libs/espresso-contrib-1.1-bundled.jar')
     compile files('libs/mockito-core-1.9.5.jar')
-    compile project(':senor-mvp')
 }
