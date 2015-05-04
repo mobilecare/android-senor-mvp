@@ -1,4 +1,4 @@
-package br.com.mobicare.senor.mvp.android.senor.mvp;
+package br.com.mobicare.senor.mvp;
 
 public interface IChangeListener<T> extends IAbstractListener {
 

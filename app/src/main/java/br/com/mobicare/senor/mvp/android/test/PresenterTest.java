@@ -1,4 +1,4 @@
-package br.com.mobicare.senor.mvp.android.senor.mvp.android.test;
+package br.com.mobicare.senor.mvp.android.test;
 
 import android.test.InstrumentationTestCase;
 
