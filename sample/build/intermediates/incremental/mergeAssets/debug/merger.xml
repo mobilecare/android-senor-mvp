@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/bmx/AndroidStudioProjects/android-senor-mvp/sample/build/intermediates/exploded-aar/android-senor-mvp/senor-mvp/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/bmx/AndroidStudioProjects/android-senor-mvp/sample/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/bmx/AndroidStudioProjects/android-senor-mvp/sample/src/debug/assets"/></dataSet></merger>
