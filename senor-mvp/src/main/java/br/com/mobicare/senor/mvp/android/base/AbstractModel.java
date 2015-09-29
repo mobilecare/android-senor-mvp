@@ -1,4 +1,4 @@
-package br.com.mobicare.senor.mvp.base;
+package br.com.mobicare.senor.mvp.android.base;
 
 
 import br.com.mobicare.senor.mvp.AbstractEventer;

@@ -1,4 +1,4 @@
-package br.com.mobicare.senor.mvp.base;
+package br.com.mobicare.senor.mvp.android.base;
 
 public abstract class AbstractPresenter<M extends AbstractModel, V extends AbstractView> {
     

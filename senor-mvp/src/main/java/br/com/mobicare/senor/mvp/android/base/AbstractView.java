@@ -1,4 +1,4 @@
-package br.com.mobicare.senor.mvp.base;
+package br.com.mobicare.senor.mvp.android.base;
 
 import android.content.Context;
 import android.view.LayoutInflater;
