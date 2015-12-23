@@ -1,0 +1,2 @@
+int id activity_test_fragment_linearlayout 0x7f030000
+int layout activity_fortests 0x7f020000

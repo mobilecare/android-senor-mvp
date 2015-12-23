@@ -1,1 +1,17 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
+/captures
+.idea/.name
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/copyright/profiles_settings.xml
+localdependencies/.gitignore
+localdependencies/build.gradle
+localdependencies/localdependencies.iml
